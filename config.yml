@@ -1,0 +1,5 @@
+
+collector:
+  api_url: "https://www.metaweather.com/"
+  location_forcast_query: "api/location/{woeid}/{date}/"
+  date_format: "%Y/%m/%d"
